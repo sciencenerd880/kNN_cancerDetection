@@ -15,6 +15,8 @@ The dataset used is the Breast Cancer Wisconsin (Diagnostic) Database. It includ
 
 ## Results
 A summary of the model's performance and accuracy in classifying breast cancer.
+Select: to choose the best model or optimal train-test split with best performance
+(/src/img/tsplit_score.png)
 
 ## Instructions
 Detailed instructions on how to run the project are provided in the notebooks and scripts.
