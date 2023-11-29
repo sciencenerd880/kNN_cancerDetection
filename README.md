@@ -28,3 +28,5 @@ Detailed instructions on how to run the project are provided in the notebooks an
 ## Requirements
 Python dependencies required to run this project are listed in `requirements.txt`.
 
+pip install -r requirements.txt
+
