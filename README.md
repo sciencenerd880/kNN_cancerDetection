@@ -11,6 +11,27 @@ Select: to choose the best model or optimal train-test split with best performan
 ## Dataset
 The dataset used is the Breast Cancer Wisconsin (Diagnostic) Database. It includes features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
+**Dataset Characteristics:**
+
+    :Number of Instances: 569
+
+    :Number of Attributes: 30 numeric, predictive attributes and the class
+
+    :Attribute Information:
+        - radius (mean of distances from center to points on the perimeter)
+        - texture (standard deviation of gray-scale values)
+        - perimeter
+        - area
+        - smoothness (local variation in radius lengths)
+        - compactness (perimeter^2 / area - 1.0)
+        - concavity (severity of concave portions of the contour)
+        - concave points (number of concave portions of the contour)
+        - symmetry
+        - fractal dimension ("coastline approximation" - 1)
+
+        The mean, standard error, and "worst" or largest (mean of the three
+        worst/largest values) of these features were computed for each image,
+
 ## Key Learnings
 - Understanding and application of the K-Nearest Neighbors algorithm.
 - Data preprocessing and feature analysis.
